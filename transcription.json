@@ -1,7 +1,7 @@
 {
   "source_title": "On Three Cases of Recovery after a Lengthened Duration of Insanity, with Remarks",
   "title_zh": "長期住院後復原的三個病例（1894）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/americanjournalo5018amer/page/n538/mode/1up",
   "manifest": "https://archive.org/metadata/americanjournalo5018amer",
@@ -30,17 +30,32 @@
         {
           "id": "f001-s",
           "side": "S",
-          "printed_page": "505",
+          "printed_page": null,
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "ON THREE CASES OF RECOVERY AFTER A LENGTH-\nENED DURATION OF INSANITY, WITH REMARKS.\n\nBY J. A. CAMPBELL, M. D., F. R. S. E.,\n\nMedical Superintendent of the Counties Asylum, Carlisle, England.\n\nUnder this very heading I was permitted in this JOURNAL in\n1888 to record three rather remarkable cases which had for con-\nsiderable periods been under my care, viz., one for above sixteen\nyears, one for eighteen years, and one for above fourteen years.\nIn dealing with these cases I mentioned in my opening remarks\nthat in five standard text books which I named no reference to\ncases of this character was made, but that Dr. Savage in his book\nnoted two such cases, and that Dr. Conolly in his book stated that\nat Hanwell “instances of recovery had occurred even after\nseventeen or twenty years of mental malady.” The Journal\nof Mental Science, issued at the same date as the AMERICAN\nJOURNAL OF INSANITY, in which my report of these cases ap-\npeared, contained an article, “Recovery from Chronic Insanity,\nFour Cases,” by Dr. Strahan, Assistant Medical Officer, North-\nampton Asylum, England, in which he deals with the subject,\nnarrates his own cases and quotes two cases reported by Dr.\nFrancis in the Journal of Mental Science, January, 1887. Dr.\nStrahan's four cases recovered after a duration of insanity of first,\nnine years and ten months; second, almost eight years; third,\nseven years and eight months, and fourth, seven years. I quote\nthe remarks I formerly made as to the value of calling attention\nto such cases: “I hope that my doing so, however imperfectly,\nmay lead others who have similar cases to put them on record, for\nit is well for us all to realize and keep constantly before us that\na possibility of recovery exists in many cases which some might\ndeem hopelessly insane, and that this belief may beneficially in-\nfluence the course and termination of many cases.”\n\nIn looking over the reports of asylums for the year 1892, which\nhave reached me, I find the following mentioned : A case of re-\ncovery after five and one-half years in Argyle, one after nine years\nin Dorset, after ten and one-half years at the Royal Glasgow Asy-\nlum, after five years at Dundee, and three cases in the report of the\nDurham Asylum; one man and one woman above five years' resi-",
+              "kind": "heading",
+              "text": "ON THREE CASES OF RECOVERY AFTER A LENGTH-\nENED DURATION OF INSANITY, WITH REMARKS.",
               "id": "f001-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "BY J. A. CAMPBELL, M. D., F. R. S. E.,\nMedical Superintendent of the Counties Asylum, Carlisle, England.",
+              "id": "f001-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Under this very heading I was permitted in this JOURNAL in\n1888 to record three rather remarkable cases which had for con-\nsiderable periods been under my care, viz., one for above sixteen\nyears, one for eighteen years, and one for above fourteen years.\nIn dealing with these cases I mentioned in my opening remarks\nthat in five standard text books which I named no reference to\ncases of this character was made, but that Dr. Savage in his book\nnoted two such cases, and that Dr. Conolly in his book stated that\nat Hanwell “instances of recovery had occurred even after\nseventeen or twenty years of mental malady.” The Journal\nof Mental Science, issued at the same date as the AMERICAN\nJOURNAL OF INSANITY, in which my report of these cases ap-\npeared, contained an article, “Recovery from Chronic Insanity,\nFour Cases,” by Dr. Strahan, Assistant Medical Officer, North-\nampton Asylum, England, in which he deals with the subject,\nnarrates his own cases and quotes two cases reported by Dr.\nFrancis in the Journal of Mental Science, January, 1887. Dr.\nStrahan’s four cases recovered after a duration of insanity of first,\nnine years and ten months; second, almost eight years; third,\nseven years and eight months, and fourth, seven years. I quote\nthe remarks I formerly made as to the value of calling attention\nto such cases: “I hope that my doing so, however imperfectly,\nmay lead others who have similar cases to put them on record, for\nit is well for us all to realize and keep constantly before us that\na possibility of recovery exists in many cases which some might\ndeem hopelessly insane, and that this belief may beneficially in-\nfluence the course and termination of many cases.”",
+              "id": "f001-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "In looking over the reports of asylums for the year 1892, which\nhave reached me, I find the following mentioned: A case of re-\ncovery after five and one-half years in Argyle, one after nine years\nin Dorset, after ten and one-half years at the Royal Glasgow Asy-\nlum, after five years at Dundee, and three cases in the report of the\nDurham Asylum; one man and one woman above five years’ resi-",
+              "id": "f001-s-u04"
             }
           ],
           "notes": [
-            "The opening page is unnumbered. Page furniture is represented through page labels and source images."
+            "Bibliographic page 505, with no printed folio or running head. Two rules separate the title, author block, and body."
           ]
         }
       ]
@@ -66,13 +81,39 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "dence and one woman after 18 years' residence. Seven cases have\ncaught my eye in the reports for one year. I have not critically\nexamined the table of duration of residence, but merely noticed\nthe cases if mentioned by the superintendent in his report. This\nclearly shows that recovery after lengthened duration of insanity\nis not of such rare occurrence as I at one time considered it, and\nthis knowledge should make one chary of giving too decided an\nadverse opinion in certain cases, and should also make one keep up\na lively interest even in the patients who occupy what in some\nasylums are called chronic wards.\n\nThough it is now a matter of ancient history, I refer to what I\nbelieve to a certain extent prejudiced the minds of some in Britain\nas regards asylum treatment in its curative aspect.\n\nIn England a considerable amount of interest was excited by a\nReport of a Committee of the London County Council “On a\nHospital for the Insane.” The Committee were appointed in\n1889, they took evidence from various sources, and they subse-\nquently issued a report with recommendations which have hitherto\nnot been carried out by the body who appointed them. The evi-\ndence of some of the witnesses went to show that the recovery of\npatients in asylums was far under what it should be or might be,\nif medical treatment in asylums was conducted as it ought to be.\nProfessor Clifford Allbutt, lately a Commissioner in Lunacy, now\nProfessor of Medicine in Cambridge says, when dealing with this\nreport,* “But the evidence of the majority of the Committee's wit-\nnesses seems to me to lack actuality, to lack contact with expe-\nrience of the things discussed, to consist of precepts and aspirations\nas vague as they are respectable.”\n\nIt is not only possible but probable that there are lazy superin-\ntendents of asylums who make their medical work subordinate to\nroutine management; but they, I believe, are the exception. There\nmay also be a few individual superintendents who hold that if you\ngive your patients good food, healthy and pleasant surroundings,\nand sufficient occupation, little else is needed, that special individ-\nual treatment is uncalled for, that a certain proportion of cases\nwill just recover, a certain become demented, but I am very cer-\ntain that the bulk of medical men in charge of asylums feel that\nthe treatment of the curable patients is the redeeming feature of\n\n* “The Proposed Hospital for the Treatment of the Insane.” Journal of Mental Science,\nOctober, 1891.",
+              "kind": "running-head",
+              "text": "THREE CASES OF PROTRACTED RECOVERY.\n[April,",
               "id": "f002-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "dence and one woman after 18 years’ residence. Seven cases have\ncaught my eye in the reports for one year. I have not critically\nexamined the table of duration of residence, but merely noticed\nthe cases if mentioned by the superintendent in his report. This\nclearly shows that recovery after lengthened duration of insanity\nis not of such rare occurrence as I at one time considered it, and\nthis knowledge should make one chary of giving too decided an\nadverse opinion in certain cases, and should also make one keep up\na lively interest even in the patients who occupy what in some\nasylums are called chronic wards.",
+              "id": "f002-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Though it is now a matter of ancient history, I refer to what I\nbelieve to a certain extent prejudiced the minds of some in Britain\nas regards asylum treatment in its curative aspect.",
+              "id": "f002-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "In England a considerable amount of interest was excited by a\nReport of a Committee of the London County Council “On a\nHospital for the Insane.” The Committee were appointed in\n1889, they took evidence from various sources, and they subse-\nquently issued a report with recommendations which have hitherto\nnot been carried out by the body who appointed them. The evi-\ndence of some of the witnesses went to show that the recovery of\npatients in asylums was far under what it should be or might be,\nif medical treatment in asylums was conducted as it ought to be.\nProfessor Clifford Allbutt, lately a Commissioner in Lunacy, now\nProfessor of Medicine in Cambridge says, when dealing with this\nreport,* “But the evidence of the majority of the Committee’s wit-\nnesses seems to me to lack actuality, to lack contact with expe-\nrience of the things discussed, to consist of precepts and aspirations\nas vague as they are respectable.”",
+              "id": "f002-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "It is not only possible but probable that there are lazy superin-\ntendents of asylums who make their medical work subordinate to\nroutine management; but they, I believe, are the exception. There\nmay also be a few individual superintendents who hold that if you\ngive your patients good food, healthy and pleasant surroundings,\nand sufficient occupation, little else is needed, that special individ-\nual treatment is uncalled for, that a certain proportion of cases\nwill just recover, a certain become demented, but I am very cer-\ntain that the bulk of medical men in charge of asylums feel that\nthe treatment of the curable patients is the redeeming feature of",
+              "id": "f002-s-u05"
+            },
+            {
+              "kind": "footnote",
+              "text": "* “The Proposed Hospital for the Treatment of the Insane,” Journal of Mental Science,\nOctober, 1891.",
+              "id": "f002-s-u06"
             }
           ],
           "notes": [
-            "The author’s asterisk footnote follows the body of this page."
+            "Running head: [April, and THREE CASES OF PROTRACTED RECOVERY.",
+            "The footnote is below a rule. Its title has a comma before the closing quotation mark."
           ]
         }
       ]
@@ -98,13 +139,33 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "asylum life, and that having a good recovery rate is the bright\npart of the yearly record of their work, while yet they thoroughly\nrecognise that from no faults or omissions in treatment their recov-\nery rate, owing to the material they have to work on, may yet fall\nfar short of that of some contemporary whose admissions are of a\nmore curable nature. The more we hear of the treatment, which\nproves successful in other institutions, the better for us, and when\nsuch cases as those I deal with crop up it is interesting to know of\nthem. I believe that whatever promotes a hopeful spirit in all\nconcerned with the treatment of the insane is of very great impor-\ntance in their curative treatment. That in all wards there should\nbe recognised curable patients. That frequent changes of ward\nand occupation should be the rule in asylums, and that each indi-\nvidual patient should be conversed with at short intervals by a\nmedical officer.\n\nAs I said, I do not think asylum doctors are negligent in their\nattempts to compass the recovery of their patients. We try all\nmeans known to us. Some of the means may possibly have dif-\nferent results from what we intend. We would gladly extend our\nknowledge and we are, I believe, all trying to do so.\n\nDuring the thirty years this asylum has existed the recovery\nrate has been as follows: Ten years ending 1872, an average of\n39 per cent, on total admissions; ten years ending 1882, 47.3 per\ncent.; ten years ending 1892, 44.1 per cent. During the first\nten year period only 2.7 per cent, of the admissions were above\nseventy years of age ; during the next ten years they increased to\n4.2, and during the last ten years to 6.3 per cent., while the puer-\nperal cases dealt with similarly stood thus, 8.2 per cent., 8.4 per cent.,\n1.2 per cent. Now such a disparity in one of the most curable and\none of the most incurable classes of cases strongly influences the\nrecovery rate for different periods, but taking the whole period for\nwhich I have reported on this asylum, viz., the twenty years ending\n1892, the recovery rate has averaged 45.5 per cent, on the total\nadmissions. If the censors of the present modes of treatment in\nasylums could only give us practical hints how to improve our\ntreatment in our existing institutions so as to raise the recovery\nrate of the cases sent to us, not selected, I for one should be\nwell pleased.\n\nI now submit a short summary of the three cases which have\ncalled forth these preliminary remarks. In reporting them I have",
+              "kind": "running-head",
+              "text": "1894.]\nBY J. A. CAMPBELL, M. D., F. R. S. E.",
               "id": "f003-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "asylum life, and that having a good recovery rate is the bright\npart of the yearly record of their work, while yet they thoroughly\nrecognise that from no faults or omissions in treatment their recov-\nery rate, owing to the material they have to work on, may yet fall\nfar short of that of some contemporary whose admissions are of a\nmore curable nature. The more we hear of the treatment, which\nproves successful in other institutions, the better for us, and when\nsuch cases as those I deal with crop up it is interesting to know of\nthem. I believe that whatever promotes a hopeful spirit in all\nconcerned with the treatment of the insane is of very great impor-\ntance in their curative treatment. That in all wards there should\nbe recognised curable patients. That frequent changes of ward\nand occupation should be the rule in asylums, and that each indi-\nvidual patient should be conversed with at short intervals by a\nmedical officer.",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "As I said, I do not think asylum doctors are negligent in their\nattempts to compass the recovery of their patients. We try all\nmeans known to us. Some of the means may possibly have dif-\nferent results from what we intend. We would gladly extend our\nknowledge and we are, I believe, all trying to do so.",
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "During the thirty years this asylum has existed the recovery\nrate has been as follows: Ten years ending 1872, an average of\n39 per cent. on total admissions; ten years ending 1882, 47.3 per\ncent.; ten years ending 1892, 44.1 per cent. During the first\nten year period only 2.7 per cent. of the admissions were above\nseventy years of age; during the next ten years they increased to\n4.2, and during the last ten years to 6.3 per cent., while the puer-\nperal cases dealt with similarly stood thus, 8.2 per cent., 8.4 per cent.,\n1.2 per cent. Now such a disparity in one of the most curable and\none of the most incurable classes of cases strongly influences the\nrecovery rate for different periods, but taking the whole period for\nwhich I have reported on this asylum, viz., the twenty years ending\n1892, the recovery rate has averaged 45.5 per cent. on the total\nadmissions. If the censors of the present modes of treatment in\nasylums could only give us practical hints how to improve our\ntreatment in our existing institutions so as to raise the recovery\nrate of the cases sent to us, not selected, I for one should be\nwell pleased.",
+              "id": "f003-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "I now submit a short summary of the three cases which have\ncalled forth these preliminary remarks. In reporting them I have",
+              "id": "f003-s-u05"
             }
           ],
           "notes": [
-            "Read 47.3 and 8.4 from the image in the percentage paragraph."
+            "Running head: 1894.] and BY J. A. CAMPBELL, M. D., F. R. S. E."
           ]
         }
       ]
@@ -130,12 +191,34 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "merely given their salient points. The treatment in each was to\naim at establishment of good physical health, to occupy and amuse\nthe patient, and to give liberty when such was consistent with\nsafety.\n\nCase 1. — T. C., male, æt. 59, admitted June, 1875. Agricul-\ntural laborer; married; suffering from first attack. Hereditary\npredisposition : mother insane. Had been getting dull for twelve\nmonths, would not work; took delusions about his food and lat-\nterly was slightly excited. On admission was found in average\nbodily health. During 1875 remained dull and quiet, would sel-\ndom speak or notice what was said to him; expressed delusions as\nto his food being poisoned, gathered into one mass in his stomach\nand that he never had an alvine motion. During 1876 remained\nmuch in same condition. During 1877 his melancholia was more\nintense. He thought he was going to die immediately and was\noften in a paroxysm of fright. During 1878 remained much in\nthe same state. In spite of ocular demonstration asserted that his\nbowels had never moved since he came to the asylum.\n\nDuring 1879 there was little change in his mental condition, but\nhe became heavier and looked in better health. Up to 1890 he\nchanged little. He held his delusions about his food and the state\nof his bowels and remained dull, morose, and gloomy and always\nspoke of being ill, fearing he would die suddenly, &c. During\n1891 he became more talkative, interested himself in what went\non and looked a different man. During 1892 he improved much,\ntalked sensibly and cheerfully, and in October of 1892, having\nseemed quite well for a considerable time, he was discharged recov-\nered. He said he was quite comfortable and would have preferred\nto end his days at the asylum, and gave the committee of visitors\nmost sensible reasons for his views in respect to the comforts and\nadvantages of residence in the asylum even though he had suffi-\ncient means to maintain himself in comfort during his lifetime.\nIt is now a year since he was discharged and he has, I know, kept\nwell. He was under treatment seventeen years.\n\nCase 2. — J. G., admitted December, 1878. Female, 68 years;\nwidow. Third attack. Hereditary predisposition not known.\nHad much domestic trouble and latterly had taken to drink; had\nbeen very depressed, restless, dull and wandering about in an aim-\nless manner.",
+              "kind": "running-head",
+              "text": "THREE CASES OF PROTRACTED RECOVERY.\n[April,",
               "id": "f004-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "merely given their salient points. The treatment in each was to\naim at establishment of good physical health, to occupy and amuse\nthe patient, and to give liberty when such was consistent with\nsafety.",
+              "id": "f004-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Case 1.—T. C., male, æt. 59, admitted June, 1875. Agricul-\ntural laborer; married; suffering from first attack. Hereditary\npredisposition: mother insane. Had been getting dull for twelve\nmonths, would not work; took delusions about his food and lat-\nterly was slightly excited. On admission was found in average\nbodily health. During 1875 remained dull and quiet, would sel-\ndom speak or notice what was said to him; expressed delusions as\nto his food being poisoned, gathered into one mass in his stomach\nand that he never had an alvine motion. During 1876 remained\nmuch in same condition. During 1877 his melancholia was more\nintense. He thought he was going to die immediately and was\noften in a paroxysm of fright. During 1878 remained much in\nthe same state. In spite of ocular demonstration asserted that his\nbowels had never moved since he came to the asylum.",
+              "id": "f004-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "During 1879 there was little change in his mental condition, but\nhe became heavier and looked in better health. Up to 1890 he\nchanged little. He held his delusions about his food and the state\nof his bowels and remained dull, morose, and gloomy and always\nspoke of being ill, fearing he would die suddenly, &c. During\n1891 he became more talkative, interested himself in what went\non and looked a different man. During 1892 he improved much,\ntalked sensibly and cheerfully, and in October of 1892, having\nseemed quite well for a considerable time, he was discharged recov-\nered. He said he was quite comfortable and would have preferred\nto end his days at the asylum, and gave the committee of visitors\nmost sensible reasons for his views in respect to the comforts and\nadvantages of residence in the asylum even though he had suffi-\ncient means to maintain himself in comfort during his lifetime.\nIt is now a year since he was discharged and he has, I know, kept\nwell. He was under treatment seventeen years.",
+              "id": "f004-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "Case 2.—J. G., admitted December, 1878. Female, 68 years;\nwidow. Third attack. Hereditary predisposition not known.\nHad much domestic trouble and latterly had taken to drink; had\nbeen very depressed, restless, dull and wandering about in an aim-\nless manner.",
+              "id": "f004-s-u05"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: [April, and THREE CASES OF PROTRACTED RECOVERY."
+          ]
         }
       ]
     },
@@ -160,13 +243,49 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "On admission was found to be very depressed in mind, with\nemotional tendencies expressing the delusion that she had some ser-\nious disease, and was going to die. Her bodily health was average.\nDuring December, 1878, she continued in a very dull and depressed\nstate, would scarcely speak. During 1879 she continued very\ndull and melancholic.\n\nUp to 1887 she remained dull and depressed, always complain-\ning, but she gradually improved in appearance and gained 26 lbs.\nin weight since admission up to this date. During the latter half\nof 1887, she began to improve in mental state markedly and be-\ncame more cheerful, talkative, and employed herself. This im-\nprovement continued and she became apparently quite well and\nwas discharged as recovered in July, 1888, having been nine years\nand seven months in the asylum.\n\nI have frequently seen her since, and she has kept out and well\nfor the last five years.\n\nCase 3. — R. H. ; male, 32 years; was admitted on May 27th,\n1887. Single. A postman. A Methodist by religion, and had\nbeen a quiet, religiously inclined and sober man. No hereditary ten-\ndency to insanity was known or suspected in this case ; nor had he\nany previous attack. His friends considered that attending revival\nmeetings had alone been the cause of his mental aberration. He\nhad been for two months previous to admission acting in a strange\nmanner; by neglecting his work as postman, stopping people on\nthe road and praying for and preaching to them. Latterly, he be-\ncame excited and prophesied. Just immediately previous to admis-\nsion he had been taking his food ill and been sleepless, but had\npreviously been in good health.\n\nOn admission he was talkative, excited, and expressed a very\nexalted opinion generally of his bodily and mental powers. His\nmemory was good. He could answer direct questions coherently,\nbut became incoherent when talking. He expressed the delusion\nthat the village of Brampton was to be destroyed February 26th,\n1889, and that he was a prophet and that divine voices spoke to\nhim. His mental condition was returned as mania.\n\nPhysically, he was 5 feet, 11 inches in height, 154 lbs. in weight;\na fresh coloured, healthy looking man, and detailed examination\nenabled his state of bodily health to be noted as average. Fre-\nquent and careful entries were made in his case. At first he ex-",
+              "kind": "running-head",
+              "text": "1894.]\nBY J. A. CAMPBELL, M. D., F. R. S. E.",
               "id": "f005-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "On admission was found to be very depressed in mind, with\nemotional tendencies expressing the delusion that she had some ser-\nious disease, and was going to die. Her bodily health was average.\nDuring December, 1878, she continued in a very dull and depressed\nstate, would scarcely speak. During 1879 she continued very\ndull and melancholic.",
+              "id": "f005-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Up to 1887 she remained dull and depressed, always complain-\ning, but she gradually improved in appearance and gained 26 lbs.\nin weight since admission up to this date. During the latter half\nof 1887, she began to improve in mental state markedly and be-\ncame more cheerful, talkative, and employed herself. This im-\nprovement continued and she became apparently quite well and\nwas discharged as recovered in July, 1888, having been nine years\nand seven months in the asylum.",
+              "id": "f005-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "I have frequently seen her since, and she has kept out and well\nfor the last five years.",
+              "id": "f005-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "Case 3.—R. H.; male, 32 years; was admitted on May 27th,\n1887. Single. A postman. A Methodist by religion, and had\nbeen a quiet, religiously inclined and sober man. No hereditary ten-\ndency to insanity was known or suspected in this case; nor had he\nany previous attack. His friends considered that attending revival\nmeetings had alone been the cause of his mental aberration. He\nhad been for two months previous to admission acting in a strange\nmanner; by neglecting his work as postman, stopping people on\nthe road and praying for and preaching to them. Latterly, he be-\ncame excited and prophesied. Just immediately previous to admis-\nsion he had been taking his food ill and been sleepless, but had\npreviously been in good health.",
+              "id": "f005-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "On admission he was talkative, excited, and expressed a very\nexalted opinion generally of his bodily and mental powers. His\nmemory was good. He could answer direct questions coherently,\nbut became incoherent when talking. He expressed the delusion\nthat the village of Brampton was to be destroyed February 26th,\n1889, and that he was a prophet and that divine voices spoke to\nhim. His mental condition was returned as mania.",
+              "id": "f005-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "Physically, he was 5 feet, 11 inches in height, 154 lbs. in weight;\na fresh coloured, healthy looking man, and detailed examination\nenabled his state of bodily health to be noted as average. Fre-\nquent and careful entries were made in his case. At first he ex-",
+              "id": "f005-s-u07"
+            },
+            {
+              "kind": "signature",
+              "text": "VOL. L—No. IV—C.",
+              "id": "f005-s-u08"
             }
           ],
           "notes": [
-            "Read 154 lbs. from the image."
+            "Running head: 1894.] and BY J. A. CAMPBELL, M. D., F. R. S. E.",
+            "The printer’s signature is below the last line of the body."
           ]
         }
       ]
@@ -192,12 +311,34 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "pressed delusions of having poison put in his food; that he was a\nprophet, priest, and king, and he used to prophesy loudly and\nlargely and consign many to hell. During this stage he was very\nexcited. After a burst of prophesying he became dull and reserved.\nAt the end of three months he became quieter and did not obtrude\nhis delusions so pronouncedly on others. Six months after admis-\nsion, though occasionally noisy and still holding his delusions, he\nwas quieter, more civil, and conducted himself better. During\n1888 he at times expressed his delusions, at these times he was\nnoisy and threatening, but for the most part was reserved and\nsuspicious.\n\nDuring 1889 he continued much as in 1888. In 1890 on the\nwhole he conducted himself well and but rarely expressed his de-\nlusions. In 1891 he at intervals was excitable and expressed his\nviews as to being a prophet. During 1892 he still expressed his\ndelusions, but he worked well, took an interest in the amusements\nand decidedly looked and spoke in a saner manner than he pre-\nviously had done. During January, February, and March of 1893,\nhe improved much apparently, repudiated his former statements\nabout himself, and his powers. He was gradually trusted more;\nallowed to go to see his relatives, and he showed by his conduct\nthat he was worthy of trust, and did so well as to convince both his\nrelatives and reporter that he was well and should have a trial of\nhome life. He was, therefore, discharged as recovered on April\n19th, 1893, having been here five years and eleven months.\n\nREMARKS:— The first two cases were of melancholia occurring\nconsiderably after middle life. I have found such cases often\nwanting in a wish to recover and especially in a wish to leave the\nasylum, and this wish to remain in the asylum was very distinctly\npresent in the case of T. C. I am quite certain that if he had not\nbeen possessed of some means he would never have got well\nenough to leave. I firmly believe that even a little property or\ninvested capital assists a patient to recover from the melancholia\nof middle life, and I quote the following from my report of 1891\nwhich gives my views :\n\n“Among many of the patients suffering from melancholia who\nbecome inhabitants of Garlands, and unfortunately remain so till\nreleased by death, during early life enjoyment alone is looked upon\nas the repayment for arduous toil, and little provision is made,",
+              "kind": "running-head",
+              "text": "THREE CASES OF PROTRACTED RECOVERY.\n[April,",
               "id": "f006-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "pressed delusions of having poison put in his food; that he was a\nprophet, priest, and king, and he used to prophesy loudly and\nlargely and consign many to hell. During this stage he was very\nexcited. After a burst of prophesying he became dull and reserved.\nAt the end of three months he became quieter and did not obtrude\nhis delusions so pronouncedly on others. Six months after admis-\nsion, though occasionally noisy and still holding his delusions, he\nwas quieter, more civil, and conducted himself better. During\n1888 he at times expressed his delusions, at these times he was\nnoisy and threatening, but for the most part was reserved and\nsuspicious.",
+              "id": "f006-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "During 1889 he continued much as in 1888. In 1890 on the\nwhole he conducted himself well and but rarely expressed his de-\nlusions. In 1891 he at intervals was excitable and expressed his\nviews as to being a prophet. During 1892 he still expressed his\ndelusions, but he worked well, took an interest in the amusements\nand decidedly looked and spoke in a saner manner than he pre-\nviously had done. During January, February, and March of 1893,\nhe improved much apparently, repudiated his former statements\nabout himself, and his powers. He was gradually trusted more;\nallowed to go to see his relatives, and he showed by his conduct\nthat he was worthy of trust, and did so well as to convince both his\nrelatives and reporter that he was well and should have a trial of\nhome life. He was, therefore, discharged as recovered on April\n19th, 1893, having been here five years and eleven months.",
+              "id": "f006-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "REMARKS:—The first two cases were of melancholia occurring\nconsiderably after middle life. I have found such cases often\nwanting in a wish to recover and especially in a wish to leave the\nasylum, and this wish to remain in the asylum was very distinctly\npresent in the case of T. C. I am quite certain that if he had not\nbeen possessed of some means he would never have got well\nenough to leave. I firmly believe that even a little property or\ninvested capital assists a patient to recover from the melancholia\nof middle life, and I quote the following from my report of 1891\nwhich gives my views:",
+              "id": "f006-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“Among many of the patients suffering from melancholia who\nbecome inhabitants of Garlands, and unfortunately remain so till\nreleased by death, during early life enjoyment alone is looked upon\nas the repayment for arduous toil, and little provision is made,",
+              "id": "f006-s-u05"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: [April, and THREE CASES OF PROTRACTED RECOVERY."
+          ]
         }
       ]
     },
@@ -222,12 +363,39 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "when it could be made, for the, at that time, far distant and un-\ncertain future, when the evil day comes. Then they become mel-\nancholic and filled with despair. After an attack of melancholia,\nwhich sends them to the asylum at middle or advanced age, they\nbecome afraid to face the world, with the additional drawback of\ntheir having been known to be in the asylum. So that instead of\nthe patient making any attempt to regain mental health and cheer-\nfulness, he simply lives in the past, broods over his unfortunate\nfate, and is without hope or ambition, content to exist in the asy-\nlum where his immediate wants are attended to.\n\nI believe a considerable proportion of the cases I allude to would\nnot require asylum treatment if they had been possessed of some\ninvested capital, and many more would recover than do, had they\nthe stimulus of something of their own, to think of, and look after,\nand the knowledge, that when they left the asylum, they would\nnot at their age, and with their powers, have again to begin the\nworld, handicapped by the history of their malady.”\n\nThe possibility of recovery remains during life in melancholic\ncases, and even in my limited experience of under thirty years, I\nhave in private life as well as in public asylums seen and heard of\nwonderful recoveries.\n\nMelancholia, as seen in public asylum practice, gives at least as\nfavorable curative results as mania. Taking the admissions into\nthis asylum from 1865 to 1891 inclusive, there were 1,930 of mania\nand 730 of melancholia, the proportion of recoveries was 54.2 for\nthe mania; 57.9 for the melancholia.\n\nWith reference to my third case, one of mania with delusions,\nit just shows that as time goes on delusions may weaken, fade and\ndisappear, and that the treatment really efficacious is to keep the\nmind vigorous and active and ward off the tendency to dementia.",
+              "kind": "running-head",
+              "text": "1894.]\nBY J. A. CAMPBELL, M. D., F. R. S. E.",
               "id": "f007-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "when it could be made, for the, at that time, far distant and un-\ncertain future, when the evil day comes. Then they become mel-\nancholic and filled with despair. After an attack of melancholia,\nwhich sends them to the asylum at middle or advanced age, they\nbecome afraid to face the world, with the additional drawback of\ntheir having been known to be in the asylum. So that instead of\nthe patient making any attempt to regain mental health and cheer-\nfulness, he simply lives in the past, broods over his unfortunate\nfate, and is without hope or ambition, content to exist in the asy-\nlum where his immediate wants are attended to.",
+              "id": "f007-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "I believe a considerable proportion of the cases I allude to would\nnot require asylum treatment if they had been possessed of some\ninvested capital, and many more would recover than do, had they\nthe stimulus of something of their own, to think of, and look after,\nand the knowledge, that when they left the asylum, they would\nnot at their age, and with their powers, have again to begin the\nworld, handicapped by the history of their malady.”",
+              "id": "f007-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The possibility of recovery remains during life in melancholic\ncases, and even in my limited experience of under thirty years, I\nhave in private life as well as in public asylums seen and heard of\nwonderful recoveries.",
+              "id": "f007-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "Melancholia, as seen in public asylum practice, gives at least as\nfavorable curative results as mania. Taking the admissions into\nthis asylum from 1865 to 1891 inclusive, there were 1,930 of mania\nand 730 of melancholia, the proportion of recoveries was 54.2 for\nthe mania; 57.9 for the melancholia.",
+              "id": "f007-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "With reference to my third case, one of mania with delusions,\nit just shows that as time goes on delusions may weaken, fade and\ndisappear, and that the treatment really efficacious is to keep the\nmind vigorous and active and ward off the tendency to dementia.",
+              "id": "f007-s-u06"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: 1894.] and BY J. A. CAMPBELL, M. D., F. R. S. E."
+          ]
         }
       ]
     }
